@@ -1,16 +1,16 @@
 {
-    "version": "4.0.19.2979",
+    "version": "4.0.20.3014",
     "description": "Smart PVR for newsgroup and bittorrent users.",
     "homepage": "https://sonarr.tv/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.19.2979/Sonarr.main.4.0.19.2979.win-x64.zip",
-            "hash": "12951800aabb37f842bcd061f10c89553334eb019c7e9fcf9824fad238261ee8"
+            "url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.20.3014/Sonarr.main.4.0.20.3014.win-x64.zip",
+            "hash": "40ffa15710d791e71ab787e152610602e4e0d9ce4c2316e3b618c3c3d265d2af"
         },
         "32bit": {
-            "url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.19.2979/Sonarr.main.4.0.19.2979.win-x86.zip",
-            "hash": "b0a4e1dbb48245ca3bb791f53512b7f8b584e3012826ba0f3ed911f30a2866bd"
+            "url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.20.3014/Sonarr.main.4.0.20.3014.win-x86.zip",
+            "hash": "add52eaae6ae8d56833f554e664a1e51a76800d5813a459c3a8512bb1117e040"
         }
     },
     "extract_dir": "Sonarr",
